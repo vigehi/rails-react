@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 message1 = Greeting.create(message: 'Hello, world!')
 message2 = Greeting.create(message: 'Hello, Rails!')
